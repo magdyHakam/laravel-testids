@@ -8,7 +8,7 @@ You can install the package via Composer by running the following command in you
 
 ```bash
 composer require your-vendor/laravel-testids
-
+```
 
 ## Usage
 
@@ -16,3 +16,4 @@ Once the package is installed, you can run the following Artisan command to add 
 
 ```bash
 php artisan testids:add
+```
