@@ -20,7 +20,7 @@
     "extra": {
         "laravel": {
             "providers": [
-                "magdy-hakam\\TestIds\\AddTestIdsServiceProvider"
+                "App\\Console\\Commands"
             ]
         }
     }
