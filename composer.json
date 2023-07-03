@@ -3,7 +3,7 @@
     "description": "Laravel package to add data-testid attribute to <a> and <input> tags in Blade files",
     "type": "library",
     "require": {
-        "illuminate/console": "^8.0"
+        "illuminate/console": "^7.0"
     },
     "autoload": {
         "psr-4": {
